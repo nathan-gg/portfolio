@@ -48,7 +48,7 @@ body {
   background-color: #fffef7;
   font-family: GT-Flexa-Mono, monospace;
   font-weight: 500;
-  background-image: url("../img/blue-grid.webp");
+  /* background-image: url("../img/blue-grid.webp"); */
   background-attachment: fixed;
 
   cursor: url(../img/transparent-cursor.svg) 11 11, auto;
