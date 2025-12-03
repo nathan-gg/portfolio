@@ -1,0 +1,242 @@
+body {
+  /* margin: 0; */
+  width: 100vw;
+  height: 100vh;
+  overflow-x: clip;
+}
+
+
+
+.landing-section {
+  display: grid;
+  grid: repeat(12, 1fr) / repeat(12, 1fr);
+  width: 100vw;
+  min-height: 100vh;
+}
+
+
+
+.case-study-page{
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.section-title {
+  grid-row-start: 3;
+  grid-row-end: 6;
+  grid-column-start: 3;
+  grid-column-end: 8;
+  /* background-color: #cffffe; */
+}
+
+.intro-text{
+  grid-row-start: 4;
+  grid-row-end: 13;
+  grid-column-start: 4;
+  grid-column-end: 10;
+  /* background-color: #CFFFFE; */
+}
+
+
+
+.about-section {
+  display: grid;
+  grid: repeat(12, 1fr) / repeat(12, 1fr);
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.about-footer{
+  grid-row-start: 10;
+  grid-row-end: 11;
+  grid-column-start: 1;
+  grid-column-end: 10;
+}
+
+.about-text {
+  grid-row-start: 4;
+  grid-row-end: 13;
+  grid-column-start: 4;
+  grid-column-end: 10;
+  /* background-color: #CFFFFE; */
+}
+
+.continue {
+  grid-row-start: 11;
+  grid-row-end: 12;
+  grid-column-start: 4;
+  grid-column-end: 10;
+}
+
+.project-item{
+  grid-row-start: 4;
+  grid-row-end: 10;
+  grid-column-start: 4;
+  grid-column-end: 10;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  /* background-color: red; */
+}
+
+.case-title{
+  /* grid-row-start: 2;
+  grid-row-end: 5; */
+  grid-column-start: 3;
+  grid-column-end: 12;
+  /* background-color: #cffffe; */
+}
+
+.about-title {
+  grid-row-start: 3;
+  grid-row-end: 6;
+  grid-column-start: 3;
+  grid-column-end: 8;
+  /* background-color: #cffffe; */
+}
+
+.project-details, .case-content, .overview{
+  grid-column-start: 4;
+  grid-column-end: 10;
+  /* background-color: #CFFFFE; */
+}
+
+.hero-image-container{
+  grid-column-start: 2;
+  grid-column-end: 12;
+  /* background-color: blueviolet; */
+}
+
+@media (width >= 50rem){
+
+  .landing-section {
+    display: grid;
+    grid: repeat(12, 1fr) / repeat(12, 1fr);
+    width: 100vw;
+    height: 100vh;
+  }
+
+  .about-section {
+    display: grid;
+    grid: repeat(12, 1fr) / repeat(12, 1fr);
+    width: 100vw;
+    height: 100vh;
+  }
+
+  .about-text {
+    grid-row-start: 4;
+    grid-row-end: 8;
+    grid-column-start: 4;
+    grid-column-end: 10;
+    /* background-color: #CFFFFE; */
+  }
+
+  .project-item{
+  grid-row-start: 4;
+  grid-row-end: 8;
+  grid-column-start: 4;
+  grid-column-end: 10;
+  /* background-color: red; */
+}
+}
+
+
+@media (width >= 76rem){
+  .landing-section {
+  display: grid;
+  grid: repeat(12, 1fr) / repeat(12, 1fr);
+  width: 100vw;
+  height: 100vh;
+}
+
+.case-study-page{
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.section-title {
+  grid-row-start: 3;
+  grid-row-end: 6;
+  grid-column-start: 3;
+  grid-column-end: 8;
+  /* background-color: #cffffe; */
+}
+
+.intro-text {
+  grid-row-start: 6;
+  grid-row-end: 9;
+  grid-column-start: 4;
+  grid-column-end: 10;
+  /* background-color: #CFFFFE; */
+}
+
+.about-text{
+  grid-row-start: 6;
+  grid-row-end: 10;
+  grid-column-start: 4;
+  grid-column-end: 10;
+}
+
+.about-section {
+  display: grid;
+  grid: repeat(12, 1fr) / repeat(12, 1fr);
+  width: 100vw;
+  height: 100vh;
+}
+
+.about-footer{
+  grid-row-start: 10;
+  grid-row-end: 11;
+  grid-column-start: 1;
+  grid-column-end: 10;
+}
+
+.continue {
+  grid-row-start: 11;
+  grid-row-end: 12;
+  grid-column-start: 6;
+  grid-column-end: 8;
+}
+
+.project-item{
+  grid-row-start: 7;
+  grid-row-end: 10;
+  grid-column-start: 4;
+  grid-column-end: 10;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  /* background-color: red; */
+}
+
+.case-title{
+  grid-column-start: 3;
+  grid-column-end: 8;
+  /* background-color: #cffffe; */
+}
+
+.about-title {
+  grid-column-start: 3;
+  grid-column-end: 8;
+  /* background-color: #cffffe; */
+}
+
+.project-details, .case-content, .overview{
+  grid-column-start: 4;
+  grid-column-end: 10;
+  /* background-color: #CFFFFE; */
+}
+
+.hero-image-container{
+  grid-column-start: 3;
+  grid-column-end: 11;
+  /* background-color: blueviolet; */
+}
+
+
+
+}

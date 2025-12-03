@@ -1,0 +1,186 @@
+/* PRIMARY FONT */
+
+@font-face {
+  font-family: "Financier-Display";
+  font-weight: 100;
+  font-style: normal;
+  src: url("../fonts/TestFinancierDisplay-Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Financier-Display";
+  font-weight: 100;
+  font-style: italic;
+  src: url("../fonts/TestFinancierDisplay-LightItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Financier-Display";
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/TestFinancierDisplay-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Financier-Display";
+  font-weight: 300;
+  font-style: italic;
+  src: url("../fonts/TestFinancierDisplay-RegularItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Financier-Display";
+  font-weight: 500;
+  font-style: normal;
+  src: url("../fonts/TestFinancierDisplay-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Financier-Display";
+  font-weight: 500;
+  font-style: italic;
+  src: url("../fonts/TestFinancierDisplay-MediumItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Financier-Display";
+  font-weight: 700;
+  font-style: normal;
+  src: url("../fonts/TestFinancierDisplay-Semibold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Financier-Display";
+  font-weight: 700;
+  font-style: italic;
+  src: url("../fonts/TestFinancierDisplay-SemiboldItalic.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Financier-Display";
+  font-weight: 900;
+  font-style: normal;
+  src: url("../fonts/TestFinancierDisplay-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Financier-Display";
+  font-weight: 900;
+  font-style: italic;
+  src: url("../fonts/TestFinancierDisplay-BlackItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Financier-Display";
+  font-weight: 1100;
+  font-style: normal;
+  src: url("../fonts/TestFinancierDisplay-Black.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Financier-Display";
+  font-weight: 1100;
+  font-style: italic;
+  src: url("../fonts/TestFinancierDisplay-BlackItalic.otf") format("opentype");
+}
+
+/* SECONDARY FONT */
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 100;
+  font-style: normal;
+  src: url("../fonts/GT-Flexa-Mono-Lazer-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 100;
+  font-style: italic;
+  src: url("../fonts/GT-Flexa-Mono-Lazer-Italic-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/GT-Flexa-Mono-Thin-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 300;
+  font-style: italic;
+  src: url("../fonts/GT-Flexa-Mono-Thin-Italic-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 500;
+  font-style: normal;
+  src: url("../fonts/GT-Flexa-Mono-Light-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 500;
+  font-style: italic;
+  src: url("../fonts/GT-Flexa-Mono-Light-Italic-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 700;
+  font-style: normal;
+  src: url("../fonts/GT-Flexa-Mono-Regular-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 700;
+  font-style: italic;
+  src: url("../fonts/GT-Flexa-Mono-Regular-Italic-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 900;
+  font-style: normal;
+  src: url("../fonts/GT-Flexa-Mono-Medium-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 900;
+  font-style: italic;
+  src: url("../fonts/GT-Flexa-Mono-Medium-Italic-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 1100;
+  font-style: normal;
+  src: url("../fonts/GT-Flexa-Mono-Bold-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 1100;
+  font-style: italic;
+  src: url("../fonts/GT-Flexa-Mono-Bold-Italic-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 1300;
+  font-style: normal;
+  src: url("../fonts/GT-Flexa-Mono-Black-Trial.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GT-Flexa-Mono";
+  font-weight: 1300;
+  font-style: italic;
+  src: url("../fonts/GT-Flexa-Mono-Black-Italic-Trial.woff2") format("woff2");
+}
