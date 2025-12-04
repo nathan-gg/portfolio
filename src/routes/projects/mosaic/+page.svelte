@@ -9,7 +9,7 @@
 <section class="pp-content p-16 py-24 h-full overflow-y-hidden">
 	<section class="pp-thumbnail-img flex flex-col gap-4 mb-12">
 		<img
-			class="project-thumbnail mb-1 rounded-xl border-2  "
+			class="project-thumbnail mb-1 rounded-xl border-2 max-w-160 "
 			src="/media/general/coming-soon.webp"
 			alt="Industry Media Group Website Project Thumbnail"
 		/>

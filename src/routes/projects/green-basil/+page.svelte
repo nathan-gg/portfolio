@@ -9,7 +9,7 @@
 <section class="pp-content p-16 py-24 h-full overflow-y-hidden">
 	<section class="pp-thumbnail-img flex flex-col gap-4 mb-12">
 		<img
-			class="project-thumbnail mb-1 rounded-xl border-2"
+			class="project-thumbnail mb-1 rounded-xl border-2 max-w-160"
 			src="/media/green-basil/gb-thumbnail.webp"
 			alt="Green Basil Thai Restaurant Project Thumbnail"
 		/>
@@ -27,7 +27,7 @@
 				<li>Duration: March 2025 - May 2025</li>
 				<li>
 					See the finished project here: <a
-						class="text-chart-3 hover:underline"
+						class="text-chart-1 hover:underline"
 						target="_blank"
 						href="https://greenbasilrestaurant.ca/">greenbasilrestaurant.ca</a
 					>
@@ -76,7 +76,7 @@
 				schedule to keep myself on task and ensure that progress was always being made.
 			</p>
 			<video
-				class="case-media my-6 rounded-xl border-2"
+				class="case-media my-6 rounded-xl border-2 max-w-160"
 				width="1458"
 				height="830"
 				autoplay
@@ -103,7 +103,7 @@
 				ready to tackle it.
 			</p>
 			<video
-				class="case-media my-6 rounded-xl border-2"
+				class="case-media my-6 rounded-xl border-2 max-w-160"
 				width="1904"
 				height="944"
 				autoplay
