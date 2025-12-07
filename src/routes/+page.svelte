@@ -11,7 +11,7 @@
 	>
 		<div class="bio flex flex-col gap-4">
 			<span class="flex flex-row gap-2">
-				<img />
+				<!-- <img /> -->
 				<h1 class="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl mb-0">
 					Nathan Gebreab
 				</h1>
