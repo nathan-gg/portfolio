@@ -32,7 +32,7 @@
 	const footer_items = [
 		{
 			title: 'LinkedIn',
-			url: 'https://www.linkedin.com/feed/',
+			url: 'https://www.linkedin.com/in/nathangebreab/',
 			icon: Linkedin
 		},
 		{
