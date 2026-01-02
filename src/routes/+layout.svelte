@@ -46,4 +46,5 @@
 
 		{@render children?.()}
 	</main>
+	
 </Sidebar.Provider>
