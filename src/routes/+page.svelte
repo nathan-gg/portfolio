@@ -20,9 +20,11 @@
 				Front-End Web Developer & UI/UX Designer
 			</h2>
 			<p class="bio-text max-w-160">
-				Hello! I am a <span class="font-bold">UI/UX Designer</span> and <span class="font-bold">Front-End Web Developer</span> based in Vancouver, British
-				Columbia, Canada, and currently pursuing an Interactive Arts and Technology BSc at Simon
-				Fraser University. I love creating unique digital experiences for users and
+				Hello! I am a <span class="font-bold">UI/UX Designer</span> and
+				<span class="font-bold">Front-End Web Developer</span>
+				based in Vancouver, British Columbia, Canada, and currently pursuing a Bachelor of Science
+				degree in Interactive Arts and Technology at Simon Fraser University. I love creating unique
+				digital experiences for users and
 				<span class="font-bold">sparking creativity</span> through each and every interaction!
 			</p>
 		</div>
@@ -37,9 +39,7 @@
 	</section>
 
 	<section class="project-feed flex flex-col w-full md:w-4/5">
-		<h2
-			class="pb-2 text-3xl mb-4 font-semibold tracking-tight transition-colors first:mt-0"
-		>
+		<h2 class="pb-2 text-3xl mb-4 font-semibold tracking-tight transition-colors first:mt-0">
 			Projects
 		</h2>
 		<div class="flex flex-col 2xl:flex-row justify-between gap-8">
