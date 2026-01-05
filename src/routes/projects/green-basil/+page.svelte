@@ -172,9 +172,7 @@
 		</p>
 	</section>
 	<section class="pp-process mb-24 w-full flex flex-nowrap flex-col items-center">
-		<h2 class="scroll-m-20 mt-0 text-2xl font-semibold tracking-tight mb-6 text-[#237b34]">
-			The Process
-		</h2>
+		<h2 class="scroll-m-20 mt-0 text-2xl font-semibold tracking-tight mb-6">The Process</h2>
 		<div class="w-full md:w-4/5 mb-12">
 			<div class="flex flex-col 2xl:flex-row gap-1 justify-between">
 				<h3 class="scroll-m-20 text-4xl font-semibold tracking-tight mb-2 md:mb-0">
